@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Angular & Laravel**
 
-- Current Working Project is TreeNet (http://tree-net.net)
+// - Current Working Project is TreeNet (http://tree-net.net)
 
-- 💬 Ask me about **fullstack**
+- 💬 Ask me about **backend**
 
 - 📫 How to reach me **ahmedhassib.work@gmail.com**
 
