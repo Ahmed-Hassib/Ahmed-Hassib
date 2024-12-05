@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-hassib&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-hassib" /> </p>
 
-- 🌱 I’m currently learning **Angular & Laravel**
-
-// - Current Working Project is TreeNet (http://tree-net.net)
-
 - 💬 Ask me about **backend**
 
 - 📫 How to reach me **ahmedhassib.work@gmail.com**
